@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ConstantContactUtility.AuthenticationData">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>AuthenticationData.cs</FileName>
+      <HashCode>AAQAAACAIACAAAAIAQACAAACAAABgAACQAIAgQEBwAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactUtility.Components.ContactComponent">
+    <Position X="0.5" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>Components\ContactComponent.cs</FileName>
+      <HashCode>IVgVsAAIAjkEaAZQGAAAAoFAAKBDgGJShKWggCA0Apg=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactUtility.Components.ContactListComponent">
+    <Position X="3.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <FileName>Components\ContactListComponent.cs</FileName>
+      <HashCode>AUAAgAAQATAAAAASAYAAAAAAQECIQAAAAAEAEIAAgAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactUtility.Utility">
+    <Position X="3.5" Y="4" Width="4" />
+    <TypeIdentifier>
+      <FileName>Utility.cs</FileName>
+      <HashCode>QQYwEQkCACAAAAQIAgAAAAAMQgAAIAEAAQIAAAiwAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactUtility.ConstantAuthenticationException">
+    <Position X="6.5" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Utility.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAgAAAAAAACAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConstantContactUtility.ConstantException">
+    <Position X="6.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Utility.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

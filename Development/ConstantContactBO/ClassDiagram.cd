@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ConstantContactBO.Contact">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Contact.cs</FileName>
+      <HashCode>aPVSZGD9MxYFIgRKKAHQAAaRHH9OIQIQQBFwosEaQEg=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactBO.ContactOptInList">
+    <Position X="3.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Contact.cs</FileName>
+      <HashCode>AAAAAIAAAAQAAAAAAAAAAAAAAAAAAQIAAAAQAEAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="ConstantContactBO.ContactList">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ContactList.cs</FileName>
+      <HashCode>AAACZAAAAAAAAAAEAARAAIQDAAAAAIgAAAAAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Enum Name="ConstantContactBO.ContactEmailType">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Contact.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConstantContactBO.ContactStatus">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Contact.cs</FileName>
+      <HashCode>AAAAAAAABAAAAEAAAAAAAAAAAAAEAAAgAAAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConstantContactBO.ContactOptSource">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Contact.cs</FileName>
+      <HashCode>AAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConstantContactBO.ContactSystemList">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ContactList.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAgAAAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

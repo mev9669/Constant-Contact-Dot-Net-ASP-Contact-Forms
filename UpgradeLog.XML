@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ASPSample">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\ASPSample.sln">
+</Property><Property Name="Date" Value="Monday, October 19, 2009">
+</Property><Property Name="Time" Value="15:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ConstantContactBO" Source="Development\ConstantContactBO\ConstantContactBO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConstantContactBO" Source="Development\ConstantContactBO\ConstantContactBO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConstantContactUtility" Source="Development\ConstantContactUtility\ConstantContactUtility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConstantContactUtility" Source="Development\ConstantContactUtility\ConstantContactUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ASPSample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ASPSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConstantContactBO" Source="Development\ConstantContactBO\ConstantContactBO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConstantContactUtility" Source="Development\ConstantContactUtility\ConstantContactUtility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

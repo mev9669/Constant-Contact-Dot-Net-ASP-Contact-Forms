@@ -1,0 +1,29 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Master.master.cs" Inherits="Master" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Constant Contact - Upload Forms</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/ConstantContactLogo.jpg" />
+            <br />
+            <br />
+            <asp:HyperLink ID="HyperLink1" runat="server" Font-Underline="True" NavigateUrl="~/AddContactFullForm.aspx">Add new Contact [Full Form]</asp:HyperLink>
+            |
+            <asp:HyperLink ID="HyperLink2" runat="server" Font-Underline="True" NavigateUrl="~/AddContactSmallForm.aspx">Add new Contact [Simplified Form]</asp:HyperLink>
+            |
+            <asp:HyperLink ID="HyperLink3" runat="server" Font-Underline="True" NavigateUrl="~/SearchContact.aspx">Add or Edit Contact</asp:HyperLink>
+            |
+            <asp:HyperLink ID="HyperLink4" runat="server" Font-Underline="True" NavigateUrl="~/ListContacts.aspx">List all Contacts</asp:HyperLink>
+            <br />
+            <br />
+            <hr />
+            <asp:ContentPlaceHolder ID="MasterContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+        </div>
+    </form>
+</body>
+</html>

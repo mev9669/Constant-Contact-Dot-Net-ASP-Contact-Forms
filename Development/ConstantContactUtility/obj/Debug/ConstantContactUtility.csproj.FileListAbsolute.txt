@@ -1,0 +1,6 @@
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\output\Debug\ConstantContactUtility.XML
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\output\Debug\ConstantContactUtility.dll
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\output\Debug\ConstantContactUtility.pdb
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\Development\ConstantContactUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\Development\ConstantContactUtility\obj\Debug\ConstantContactUtility.dll
+C:\Documents and Settings\dberard\My Documents\Visual Studio 2008\WebSites\RCMT\ASP Upload Forms\Development\ConstantContactUtility\obj\Debug\ConstantContactUtility.pdb

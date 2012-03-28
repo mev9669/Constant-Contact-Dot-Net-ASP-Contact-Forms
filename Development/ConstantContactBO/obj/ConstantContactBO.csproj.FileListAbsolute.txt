@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\output\Debug\ConstantContactBO.XML
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\output\Debug\ConstantContactBO.dll
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\output\Debug\ConstantContactBO.pdb
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\Development\ConstantContactBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\Development\ConstantContactBO\obj\Debug\ConstantContactBO.dll
+C:\Documents and Settings\Administrator.LSC\My Documents\Projects\ConstantContact\ASP Upload Forms\Development\ConstantContactBO\obj\Debug\ConstantContactBO.pdb
